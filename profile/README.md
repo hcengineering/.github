@@ -1,4 +1,4 @@
-<h1 align="center">An Open Source Platform for building <a href="https://zenflow.app">SaaS applications</a>.</h1><br>
+<h1 align="center">An Open Source Platform for building <a href="https://zenflow.app">SaaS applications</a></h1><br>
 
 <p align="center">
   <a href="https://zenflow.app">

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://huly.io">
-    <img src="https://huly.io/_astro/dark-kanban.51390fd6_vIfr7.webp" srcset="https://huly.io/_astro/dark-kanban.51390fd6_1tAM0H.webp 980w, https://huly.io/_astro/dark-kanban.51390fd6_htsmY.webp 1960w" loading="eager" alt="Huly Platform" decoding="async">
+    <img src="/_astro/dark-kanban.D2kAOX88_q4nnu.webp" srcset="/_astro/dark-kanban.D2kAOX88_q4nnu.webp 980w, /_astro/dark-kanban.D2kAOX88_q4nnu.webp 1960w" loading="eager" decoding="async">
   </a>
 </p>
 
